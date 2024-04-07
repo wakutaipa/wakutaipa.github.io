@@ -5,12 +5,90 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Hello April!</title>
+      <link>http://localhost:1313/post/firstweekofapril/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/firstweekofapril/</guid>
+      <description>&lt;h2 id=&#34;how-my-week-went&#34;&gt;How My Week Went&lt;/h2&gt;
+&lt;p&gt;This last week was really calm. I took a trip on a train to a nearby town to pay a visit to my bestfriend. The weather was soo good we literally walked around the whole city. Besides that i was very productive; practiced playing my recorder some more and I think i&amp;rsquo;m way better than when I just started. I&amp;rsquo;m also reading Dracula (I should have mentioned in my previous post) and it keeps getting better and better each day. I had way less fast food than I usually do and I reconnected with an old friend. I also won a doll from the claw machine, finally! but it&amp;rsquo;s not that cute. Lol.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;trophy&#34; srcset=&#34;
+               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_5e9820c47c774a8c25be3b9874310279.webp 400w,
+               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_4232623f53f9227ee4521c43e646bdc4.webp 760w,
+               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_5e9820c47c774a8c25be3b9874310279.webp&#34;
+               width=&#34;434&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s something interesting, a few weeks back, my ex told me someone on snapchat was texting him and pretending to b me. I thought it was cap so i ignored him because he just wanted attention, but today morning I opened my facebook and came tothe realistaion that he was right! It&amp;rsquo;s actually very scary and flattering at the same time. I reported the account and now i&amp;rsquo;m just waiting&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Thanks for reading. Catch you next week &amp;lt;3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to create stunning reports!</title>
+      <link>http://localhost:1313/post/making-a-report/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/making-a-report/</guid>
+      <description>&lt;h2 id=&#34;a-guide-on-report-creation&#34;&gt;A guide on report creation&lt;/h2&gt;
+&lt;p&gt;Reports are a cornerstone of effective communication in both professional and academic settings. Whether you&amp;rsquo;re summarizing findings from a research project, presenting quarterly business metrics, or analyzing market trends, the ability to create clear, concise, and compelling reports is essential. In this guide, we&amp;rsquo;ll delve into the art of report creation, providing you with a step-by-step approach to crafting reports that inform, persuade, and inspire action.&lt;/p&gt;
+&lt;h3 id=&#34;define-your-purpose-and-audience&#34;&gt;Define Your Purpose and Audience:&lt;/h3&gt;
+&lt;p&gt;Before diving into the report creation process, take the time to clearly define your objectives and identify your target audience. Ask yourself:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is the purpose of this report?&lt;/li&gt;
+&lt;li&gt;Who will be reading it, and what are their expectations?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Understanding these key elements will guide every aspect of your report, from its structure to its tone and content.&lt;/p&gt;
+&lt;h3 id=&#34;gather-and-analyze-data&#34;&gt;Gather and Analyze Data:&lt;/h3&gt;
+&lt;p&gt;A well-researched report is built on a foundation of reliable data. Whether you&amp;rsquo;re conducting surveys, analyzing financial statements, or synthesizing information from various sources, ensure that your data is accurate, relevant, and up-to-date. Take the time to analyze your data critically, identifying key insights and trends that will form the basis of your report&amp;rsquo;s narrative.&lt;/p&gt;
+&lt;h3 id=&#34;outline-your-report&#34;&gt;Outline Your Report:&lt;/h3&gt;
+&lt;p&gt;Once you have a clear understanding of your objectives and data, outline the structure of your report. A typical report will include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction: Provide an overview of the report&amp;rsquo;s purpose and scope.&lt;/li&gt;
+&lt;li&gt;Methodology: Explain the methods used to gather and analyze data.&lt;/li&gt;
+&lt;li&gt;Findings: Present your key findings in a logical and organized manner.&lt;/li&gt;
+&lt;li&gt;Analysis: Interpret the data and provide insights into its significance.&lt;/li&gt;
+&lt;li&gt;Recommendations: Offer actionable recommendations based on your findings.&lt;/li&gt;
+&lt;li&gt;Conclusion: Summarize the main points and reiterate the report&amp;rsquo;s key takeaways.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;craft-clear-and-concise-content&#34;&gt;Craft Clear and Concise Content:&lt;/h3&gt;
+&lt;p&gt;When writing your report, aim for clarity and conciseness. Use plain language and avoid unnecessary jargon or technical terms that may confuse your readers. Present information in a logical sequence, using headings, subheadings, and bullet points to help guide the reader through the report. Be sure to support your findings with evidence and examples, and cite your sources properly to lend credibility to your analysis.&lt;/p&gt;
+&lt;h3 id=&#34;design-and-formatting&#34;&gt;Design and Formatting:&lt;/h3&gt;
+&lt;p&gt;The visual presentation of your report is just as important as its content. Choose a clean and professional layout, using consistent formatting throughout the document. Incorporate visuals such as charts, graphs, and tables to illustrate key points and enhance understanding. Pay attention to typography, spacing, and alignment to ensure that your report is easy to read and visually appealing.&lt;/p&gt;
+&lt;h3 id=&#34;review-and-revise&#34;&gt;Review and Revise:&lt;/h3&gt;
+&lt;p&gt;Before finalizing your report, take the time to review and revise it thoroughly. Check for errors in grammar, spelling, and punctuation, and ensure that all information is accurate and up-to-date. Consider seeking feedback from colleagues or peers to gain fresh perspectives and identify any areas for improvement. A polished and error-free report will enhance your credibility as a communicator and increase the impact of your message.&lt;/p&gt;
+&lt;h3 id=&#34;deliver-with-confidence&#34;&gt;Deliver with Confidence:&lt;/h3&gt;
+&lt;p&gt;Finally, when it&amp;rsquo;s time to present your report, do so with confidence and professionalism. Practice your delivery beforehand, paying attention to your tone, pace, and body language. Be prepared to answer questions and engage in discussion, demonstrating your expertise and mastery of the subject matter. By delivering your report with confidence and conviction, you&amp;rsquo;ll leave a lasting impression on your audience and achieve your desired outcomes.&lt;/p&gt;
+&lt;p&gt;In conclusion, mastering the art of report creation requires careful planning, meticulous attention to detail, and effective communication skills. By following the steps outlined in this guide, you&amp;rsquo;ll be well-equipped to create reports that inform, persuade, and inspire action, making you a valuable asset in any professional or academic setting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown Markup Language</title>
@@ -226,7 +304,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-791285364&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-567489132&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -236,7 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-791285364&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-567489132&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
