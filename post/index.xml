@@ -5,12 +5,41 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Bye April!</title>
+      <link>http://localhost:1313/post/last-week-of-april/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-of-april/</guid>
+      <description>&lt;h2 id=&#34;how-my-week-went&#34;&gt;How My Week Went&lt;/h2&gt;
+&lt;p&gt;What to write, what to write&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Well, April wasn&amp;rsquo;t bad at all. I had some bad days but mostly good days. In the last week of April I really didn&amp;rsquo;t get to much. Just school work and recording youtube videos.
+My mom had her birthday on the 30th (Happy birthday again mom!), and my birthday is coming up soon too. I honestly have no idea what I want to do yet but i&amp;rsquo;ll figure it out, O still have some three weeks. I tried shawarma with goat meat today, I hated it. I finished Dracula and the ending sucked.&lt;/p&gt;
+&lt;p&gt;The weather is getting pretty good so meaning I can practice my recorder outside again (finally), and I actually even want to go out more. Today I went to a beach and it wasn&amp;rsquo;t as great as I expected.&lt;/p&gt;
+&lt;p&gt;Write to me about your April and plans for this month.
+xoxo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming with Julia</title>
+      <link>http://localhost:1313/post/julia/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/julia/</guid>
+      <description>&lt;h2 id=&#34;why-julia-is-ideal-for-scientific-programming&#34;&gt;Why Julia is Ideal For Scientific Programming&lt;/h2&gt;
+&lt;p&gt;Julia has emerged as a powerhouse language in the realm of scientific computing, attracting researchers, scientists and engineers alike. It&amp;rsquo;s uniqu blend of hugh performance and user friendly syntax makes it a top choice for tackling complex computational problems across various disciplines.&lt;/p&gt;
+&lt;p&gt;Julia code can approach the speed of traditional compiled languages like C or Fortran, crucial for handling large-scale numerical computations efficiently. Scientists can now focus on their research without sacrificing speed or performance. Julia’s syntax is designed with scientific computing in mind. It closely resembles mathematical notation, making it intuitive for scientists to translate mathematical concepts directly into code. This close alignment between mathematical expressions and Julia code streamlines the development process, reducing the barrier to entry for researchers from diverse backgrounds.&lt;/p&gt;
+&lt;p&gt;From linear algebra and differential equations to machine learning and data visualization, Julia’s extensive collection of packages covers a wide range of scientific domains. Researchers can leverage these packages to accelerate their workflows and explore new frontiers in their respective fields. Julia seamlessly integrates with existing scientific computing tools and libraries, allowing researchers to leverage their existing codebase and infrastructure. Whether interfacing with C, Python, or MATLAB, Julia facilitates smooth interoperability, enabling scientists to combine the strengths of different languages and libraries to solve complex problems effectively.&lt;/p&gt;
+&lt;p&gt;Julia benefits from a vibrant and supportive community of developers and researchers. With active forums, mailing lists, and online resources, users can easily seek help, share insights, and collaborate on projects. This sense of community fosters innovation and empowers users to push the boundaries of scientific computing.&lt;/p&gt;
+&lt;p&gt;Julia’s combination of high performance, intuitive syntax, extensive package ecosystem, interoperability, and supportive community make it the perfect language for scientific computing. Whether you’re simulating physical systems, analyzing large datasets, or developing cutting-edge algorithms, Julia empowers scientists to turn their ideas into reality efficiently and effectively.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello April!</title>
@@ -38,10 +67,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;trophy&#34; srcset=&#34;
-               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_5e9820c47c774a8c25be3b9874310279.webp 400w,
-               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_4232623f53f9227ee4521c43e646bdc4.webp 760w,
+               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_0926fbd348490a5dcaa612d221c076b4.webp 400w,
+               /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_7b53b426c9667728ca3216d3d2ff2ef6.webp 760w,
                /post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_5e9820c47c774a8c25be3b9874310279.webp&#34;
+               src=&#34;http://localhost:1313/post/firstweekofapril/win_hu7f0d9ef8199846abcc960a9aab48295a_93912_0926fbd348490a5dcaa612d221c076b4.webp&#34;
                width=&#34;434&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -304,7 +333,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-567489132&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-857219643&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +343,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-567489132&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-857219643&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Academic</title>
+    <link>http://localhost:1313/tag/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Automation and Job disruption</title>
+      <link>http://localhost:1313/project/ai-and-job-disruption/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ai-and-job-disruption/</guid>
+      <description>&lt;p&gt;The rise of automation and artificial intelligence has sparked concerns about job displacement. Routine tasks are increasingly being automated, leading to a restructuring of the labour market. However, this disruption also presents opportunities for innovation,craetivity and the creation of new types of jobs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
